@@ -114,3 +114,10 @@ Slow build times (~15 min)
 → First build downloads Maven dependencies; subsequent builds will be much faster.
 
 
+## 📷 Screenshots
+
+### ✅ Jenkins Build Success
+![Jenkins Build](images/jenkins-build.png)
+
+### 💻 EC2 Terminal Output
+![EC2 Output](images/ec2-output.png)
